@@ -135,7 +135,7 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
+> git clone https://github.com/ZakiGans/termux-whatsapp-bot
 > cd termux-whatsapp-bot
 > bash install.sh
 ```
