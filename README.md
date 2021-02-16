@@ -388,7 +388,7 @@ Follow The Steps Below!
 ---
 
 ## Group
-* <a href="https://chat.whatsapp.com/EiTttieeSNX9GEXjY74Dr2"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/C1qFWmPm8EVDfKAhAXDvpT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Special Thanks To
 
