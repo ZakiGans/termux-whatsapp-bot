@@ -1,4 +1,4 @@
-### Moshimoshi~ I'm Zaki<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Kamex~ I'm Zaki<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
 
 </p>
@@ -28,7 +28,9 @@
 <div align="center">
 <details>
  <summary>🍙 Help me!</summary>
- 
+| :--------------------:
+|Bukan Hasil Sendiri:)|
+| :--------------------:
 </details>
 </div>
 
