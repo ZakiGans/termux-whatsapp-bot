@@ -1,6 +1,6 @@
 {
-  "name": "termux-whatsapp-bot",
-  "version": "0.0.2",
+  "akiya": "termux-whatsapp-bot",
+  "V1": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
   "directories": {
